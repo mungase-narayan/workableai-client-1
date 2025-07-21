@@ -1,10 +1,9 @@
+import HomePage from "@/features/home";
 import {
   createBrowserRouter,
   createRoutesFromElements,
   Route,
 } from "react-router-dom";
-
-import HomePage from "@/features/home-page";
 
 
 const router = createBrowserRouter(
